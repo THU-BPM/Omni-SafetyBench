@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2508.07173"><u>📄 Paper</u></a> |
-  <a href="https://huggingface.co/datasets/Leyiii/Omni-SafetyBench"><u>🚩 Dataset</u></a>
+  <a href="https://huggingface.co/datasets/Leyiii/Omni-SafetyBench"><u>🤗 Dataset</u></a>
 </p>
 
 
