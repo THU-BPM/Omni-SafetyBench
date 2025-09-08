@@ -139,13 +139,10 @@ Thanks to [VA-SafetyBench](https://huggingface.co/datasets/luweikai/VA-SafetyBen
 
 ## Citation
 ```
-@misc{pan2025omnisafetybenchbenchmarksafetyevaluation,
-      title={Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models}, 
-      author={Leyi Pan and Zheyu Fu and Yunpeng Zhai and Shuchang Tao and Sheng Guan and Shiyu Huang and Lingzhe Zhang and Zhaoyang Liu and Bolin Ding and Felix Henry and Lijie Wen and Aiwei Liu},
-      year={2025},
-      eprint={2508.07173},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.07173}, 
-}
+@article{pan2025omni,
+  title={Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models},
+  author={Pan, Leyi and Fu, Zheyu and Zhai, Yunpeng and Tao, Shuchang and Guan, Sheng and Huang, Shiyu and Zhang, Lingzhe and Liu, Zhaoyang and Ding, Bolin and Henry, Felix and others},
+  journal={arXiv preprint arXiv:2508.07173},
+  year={2025}
+} 
 ```
