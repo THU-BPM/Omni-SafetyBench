@@ -1,10 +1,11 @@
-<h1 align="center">📌 Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://arxiv.org/abs/2508.07173"><u>📄 Paper</u></a> |
-  <a href="https://huggingface.co/datasets/Leyiii/Omni-SafetyBench"><u>🤗 Dataset</u></a>
-</p>
+# Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Langauge Models
 
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-5F259F?style=for-the-badge&logo=socialblade&logoColor=white)](https://generative-watermark.github.io/)
+[![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.07173) [![Dataset](https://img.shields.io/badge/HF--Dataset-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/Leyiii/Omni-SafetyBench)  
+
+</div>
 
 🔔 Warning: This repo contains examples of harmful language, images, audios and videos.
 
