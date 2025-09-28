@@ -3,7 +3,7 @@
 # Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Langauge Models
 
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-5F259F?style=for-the-badge&logo=socialblade&logoColor=white)](https://omni-safetybench.github.io/)
-[![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.07173) [![Dataset](https://img.shields.io/badge/HF--Dataset-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/Leyiii/Omni-SafetyBench)  
+[![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.07173) [![Dataset](https://img.shields.io/badge/HF--Dataset-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/Leyiii/Omni-SafetyBench) [![Github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THU-BPM/Omni-SafetyBench/)  
 
 </div>
 
